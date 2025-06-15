@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+.vs/
+build/
+gitpush.sh
+a.ans
+a.out
+a.in
+stl.dSYM/
+a.py
